@@ -26,6 +26,7 @@ I am a system architect and designer with experience in building scalable and fl
 - 🧠 **AI Technologies**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23ff6f00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23ee4c2c?style=flat&logo=pytorch&logoColor=white)
 
 ## 📬 How to Contact Me:
-- [LinkedIn]([https://www.linkedin.com/in/your-profil](https://www.linkedin.com/in/pouya-heydarabadi-b47897198/)e)
+- [LinkedIn](https://www.linkedin.com/in/pouya-heydarabadi-b47897198)
+
 
 ---
