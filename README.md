@@ -9,24 +9,7 @@
 I am a system architect, designer, and **Team Lead** with a strong passion for learning. I specialize in building scalable and flexible systems using modern technologies like **.NET Core**, **Microservices**, and **AI Generative Models**. Currently, I am working on several microservices-related projects, implementing **Semantic Kernel** for AI in various applications, and learning new ways to improve my workflow and skills in AI and system design.
 
 ## 🚀 GitHub Stats:
-- **Total Stars**: ![GitHub Stars](https://img.shields.io/github/stars/pouya-heydarabadi?style=social)
-- **Total Forks**: ![GitHub Forks](https://img.shields.io/github/forks/pouya-heydarabadi?style=social)
-- **Open Issues**: ![Open Issues](https://img.shields.io/github/issues/pouya-heydarabadi?style=social)
-- **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/pouya-heydarabadi?style=social)
-
-## 🛠️ Skills & Technologies:
-- **.NET Core**, **ASP.NET**, **C#**
-- **Microservices Architecture**
-- **AI Generative Models** (e.g., GPT and similar models)
-- **Semantic Kernel** for AI Integration
-- **Docker**, **Kubernetes**
-- **Event-Driven Architecture**
-- **Kafka**, **RabbitMQ**
-- **CI/CD** and **DevOps**
-- 🧠 **AI Technologies**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23ff6f00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23ee4c2c?style=flat&logo=pytorch&logoColor=white)
-
-## 📬 How to Contact Me:
-- [LinkedIn](https://www.linkedin.com/in/pouya-heydarabadi-b47897198)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pouya-heydarabadi&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=radical)
 
 ---
 
