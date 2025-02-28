@@ -10,10 +10,10 @@ I am a system architect and designer with experience in building scalable and fl
 
 ## 🚀 GitHub Stats:
 
-- **Total Stars**: ![Total Stars](https://img.shields.io/github/stars/pouya-heydarabadi?style=social)
-- **Total Forks**: ![Total Forks](https://img.shields.io/github/forks/pouya-heydarabadi?style=social)
-- **Open Issues**: ![Open Issues](https://img.shields.io/github/issues/pouya-heydarabadi?style=social)
-- **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/pouya-heydarabadi?style=social)
+- **Total Stars**: ![Total Stars] (https://img.shields.io/github/stars/pouya-heydarabadi?style=social)
+- **Total Forks**: ![Total Forks] (https://img.shields.io/github/forks/pouya-heydarabadi?style=social)
+- **Open Issues**: ![Open Issues] (https://img.shields.io/github/issues/pouya-heydarabadi?style=social)
+- **Pull Requests**: ![Pull Requests] (https://img.shields.io/github/issues-pr/pouya-heydarabadi?style=social)
 
 ## 🛠️ Skills & Technologies:
 - **.NET Core**, **ASP.NET**, **C#**
