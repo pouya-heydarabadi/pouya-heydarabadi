@@ -28,14 +28,16 @@ I am a system architect and designer with experience in building scalable and fl
 - **Kafka** ![Kafka](https://img.shields.io/badge/Kafka-%23e31b6d?style=flat&logo=apachekafka&logoColor=white)
 - **RabbitMQ** ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23ff6600?style=flat&logo=rabbitmq&logoColor=white)
 - **CI/CD** ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23629e52?style=flat&logo=jenkins&logoColor=white)
+- 🧠 **AI Technologies**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23ff6f00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23ee4c2c?style=flat&logo=pytorch&logoColor=white)
 
-
+## 📬 How to Contact Me:
+- [LinkedIn](https://www.linkedin.com/in/pouya-heydarabadi-b47897198)
 
 ---
 
 ## 🚀 Top Projects:
 
-### [SpaceBase-Architecture](https://github.com/pouya-heydarabadi/SpaceBase-Architecture)
+### 🌌 [SpaceBase-Architecture](https://github.com/pouya-heydarabadi/SpaceBase-Architecture)
 **Description**: A cloud-native microservices architecture designed to handle large-scale systems, incorporating components like identity management, catalog services, and order placement.
 
 **Stats**:
@@ -44,7 +46,9 @@ I am a system architect and designer with experience in building scalable and fl
 - **Open Issues**: ![Open Issues](https://img.shields.io/github/issues/pouya-heydarabadi/SpaceBase-Architecture?style=social)
 - **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/pouya-heydarabadi/SpaceBase-Architecture?style=social)
 
-### [ObjectDetection-Service](https://github.com/pouya-heydarabadi/ObjectDetection-Service)
+---
+
+### 🧠 [ObjectDetection-Service](https://github.com/pouya-heydarabadi/ObjectDetection-Service)
 **Description**: Object Detection API for identifying objects in images using deep learning models with **TensorFlow** and **PyTorch**.
 
 **Stats**:
@@ -53,7 +57,9 @@ I am a system architect and designer with experience in building scalable and fl
 - **Open Issues**: ![Open Issues](https://img.shields.io/github/issues/pouya-heydarabadi/ObjectDetection-Service?style=social)
 - **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/pouya-heydarabadi/ObjectDetection-Service?style=social)
 
-### [Search-Service](https://github.com/pouya-heydarabadi/Search-Service)
+---
+
+### 🔍 [Search-Service](https://github.com/pouya-heydarabadi/Search-Service)
 **Description**: A microservice that implements a search functionality for distributed systems, optimized for fast, efficient search across multiple datasets.
 
 **Stats**:
@@ -62,7 +68,9 @@ I am a system architect and designer with experience in building scalable and fl
 - **Open Issues**: ![Open Issues](https://img.shields.io/github/issues/pouya-heydarabadi/Search-Service?style=social)
 - **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/pouya-heydarabadi/Search-Service?style=social)
 
-### [EShop_MicroService](https://github.com/pouya-heydarabadi/EShop_MicroService)
+---
+
+### 🛒 [EShop_MicroService](https://github.com/pouya-heydarabadi/EShop_MicroService)
 **Description**: E-commerce microservice built with **.NET Core** and **ASP.NET**, including features like order handling, product catalogs, and payment gateway integration.
 
 **Stats**:
@@ -73,5 +81,3 @@ I am a system architect and designer with experience in building scalable and fl
 
 ---
 
-## 📬 How to Contact Me:
-- [LinkedIn](https://www.linkedin.com/in/pouya-heydarabadi-b47897198)
