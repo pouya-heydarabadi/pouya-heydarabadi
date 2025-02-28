@@ -1,4 +1,4 @@
-# Hi, I'm [Pouya Heydarabadi] 👋
+# Hi, I'm Pouya Heydarabadi 👋
 
 ## 👨‍💻 Currently Working On:
 - Designing and architecting **Microservices** systems using **.NET**.
@@ -27,6 +27,5 @@ I am a system architect and designer with experience in building scalable and fl
 
 ## 📬 How to Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/pouya-heydarabadi-b47897198)
-
 
 ---
