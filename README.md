@@ -24,7 +24,7 @@ I am a system architect, designer, and **Team Lead** with a strong passion for l
 - **Kafka** ![Kafka](https://img.shields.io/badge/Kafka-%23e31b6d?style=flat&logo=apachekafka&logoColor=white)
 - **RabbitMQ** ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23ff6600?style=flat&logo=rabbitmq&logoColor=white)
 - **CI/CD** ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23629e52?style=flat&logo=jenkins&logoColor=white)
-- 🧠 **AI Technologies**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23ff6f00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23ee4c2c?style=flat&logo=pytorch&logoColor=white)
+- 🧠 **AI Technologies**
 
 ## 📬 How to Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/pouya-heydarabadi-b47897198)
